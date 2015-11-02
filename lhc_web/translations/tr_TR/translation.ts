@@ -2385,11 +2385,11 @@
     </message>
     <message>
       <source>Please enter a message...</source>
-      <translation type="unfinished"/>
+      <translation>Mesajınızı girin</translation>
     </message>
     <message>
       <source>Live support is not available in your country</source>
-      <translation type="unfinished"/>
+      <translation>Canlı Destek hizmetimiz ülkenizde kullanılmamaktadır.</translation>
     </message>
     <message>
       <source>Live Support</source>
